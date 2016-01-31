@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="geral.js"></script>
+
+    <style>
+        badge {
+            color: wheat;
+        }
+        span.tab{
+            padding: 0 80px; /* Or desired space*/
+        }
+    </style>
+
+</head>
+<body>
+    
+    <div id="includedContent"></div>
+
+    <center><h1>Book Authors</h1></center>
+
+    <span class="tab"></span>Sort by
+    <select id="sort">
+        <option value="1">name(A-Z)</option>
+        <option value="2">name(Z-a)</option>
+    </select>
+
+    <p>
+        <!--  <input type="button" onclick="myFunction()" value="Sort List" /> -->
+    </p>
+
+    <div class="row">
+        <div id="id01"></div>
+    </div>
+
+    <hr />
+    <footer>
+        <p>&copy; 2015 - My ASP.NET Application</p>
+    </footer>
+
+    <script>
+
+        var myUrl = "http://192.168.160.36/JSON/getAuthors.aspx";
+        var arrayName; 
+        $.ajax({
+            type: "GET",
+            url: myUrl,
+            data: { numAuthors: 15 },
+            dataType: "jsonp",
+            error: function (xhr, status, err) {
+            },
+            success: function (data) {
+                initandwrite(data);
+            }
+        });
+
+        function myFunction() { // funcao para botao
+            arrayName.reverse();
+            initandwrite(arrayName); 
+        }
+
+        function initandwrite(data) {
+            var i;
+            var out = "";
+            for (i = 0; i < data.length; i++) {
+                out += "<div class=\"col-sm-6 col-md-4\"><div class=\"thumbnail\"><div class=\"caption\">" +
+                "<h2><span class=\"badge\"><h1><b>" + data[i].name.replace(/[^A-Z]/g, '') + "</b></h1><font size=\"0,5\">" + data[i].ID.replace("00:00:00", "") + "</font>" + "</span>" + " " + data[i].name + "</h2>" +
+                "<h5><span class=\"tab\"></span>" + data[i].address + "</h5>" +
+                "<h6><span class=\"tab\"></span>" + data[i].city + " ," + data[i].state + ", " + data[i].zip + "</h6>" +
+                "<h5><span class=\"tab\"></span><span class=\"glyphicon glyphicon-phone-alt\"></span>" + " " + data[i].phone + "</h5>" +
+                "<p><span class=\"tab\"></span><a href=\"sales.html?author_ID=" + data[i].ID + "\" class=\"btn btn-primary\" role=\"button\">Sales</a> <a href=\"books.html?author_ID=" + data[i].ID + "\" class=\"btn btn-primary\" role=\"button\">Books</a> </p>" +
+                "</div> </div></div>";
+
+            }
+            arrayName = data;
+
+            document.getElementById("id01").innerHTML = out;
+        }
+
+
+        var list = document.getElementById("sort");
+
+        list.addEventListener("click", function () {
+            var mode = list.selectedIndex;
+
+            switch (mode) {
+
+                case 0:  //ordenado alfab
+                    if (!is_sorted(arrayName)) {
+                        arrayName.reverse();
+                        initandwrite(arrayName);
+                    } 
+                    // console.log("0");
+                    break;
+                
+
+                case 1:  //invers ordenado alfab
+                    if (is_sorted(arrayName)) {
+                        arrayName.reverse();
+                        initandwrite(arrayName);
+                    }
+                    // console.log("1");
+                   
+            }
+        });
+
+
+
+    </script>
+
+
+</body>
+</html>

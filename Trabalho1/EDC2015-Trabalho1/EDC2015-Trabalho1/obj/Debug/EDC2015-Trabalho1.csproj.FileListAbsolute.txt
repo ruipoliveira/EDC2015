@@ -1,0 +1,272 @@
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\csc.exe
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\vbc.exe
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll.config
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.pdb
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Owin.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\WebGrease.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.pdb
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.csprojResolveAssemblyReference.cache
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.dll
+C:\Users\anafi\documents\visual studio 2015\Projects\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.pdb
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\csc.exe
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Collections.Immutable.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\vbc.exe
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe.config
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll.config
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.pdb
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.jQuery.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Web.Infrastructure.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Owin.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\WebGrease.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.pdb
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.csprojResolveAssemblyReference.cache
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.dll
+D:\ECT-UA\EDC\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.pdb
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\csc.exe
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\vbc.exe
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll.config
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.pdb
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Owin.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\WebGrease.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.pdb
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.csprojResolveAssemblyReference.cache
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.dll
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.pdb
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\csc.exe
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\vbc.exe
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll.config
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EDC2015-Trabalho1.pdb
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Owin.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\WebGrease.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Newtonsoft.Json.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Optimization.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Antlr3.Runtime.pdb
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\EntityFramework.SqlServer.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\System.Web.Providers.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.csprojResolveAssemblyReference.cache
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.dll
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.pdb
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015_Trabalho1.Migrations.InitialCreate.resources
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.csproj.GenerateResource.Cache
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015_Trabalho1.Migrations.Birthdate.resources
+C:\Users\anafi\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015_Trabalho1.Migrations.FullName.resources
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015_Trabalho1.Migrations.InitialCreate.resources
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015_Trabalho1.Migrations.Birthdate.resources
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015_Trabalho1.Migrations.FullName.resources
+C:\Users\Rui Oliveira\Dropbox\edc-pratica2015\Trabalho1\EDC2015-Trabalho1\EDC2015-Trabalho1\obj\Debug\EDC2015-Trabalho1.csproj.GenerateResource.Cache

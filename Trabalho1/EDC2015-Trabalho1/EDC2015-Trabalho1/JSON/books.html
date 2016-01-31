@@ -1,0 +1,158 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="geral.js"></script>
+    <style>
+        table {
+            table-layout: fixed;
+        }
+        span.tab{
+            padding: 0 80px; /* Or desired space*/
+        }
+    </style>
+
+ 
+</head>
+<body>
+    <div id="includedContent"></div>
+
+    <p>
+        <center><div id="id02"></div></center>
+    </p>
+    <p>
+        <span class="tab"></span> <a href="default.html"> <span class="glyphicon glyphicon-backward"></span> Back to authors</a>
+    </p>
+    <span class="tab"></span>Sort by
+    <select id="sort">
+        <option value="1">title(A-Z)</option>
+        <option value="2">title(Z-A)</option>
+    </select>
+
+    <p>
+        <div id="id01"></div>
+    </p>
+
+    <hr />
+    <footer>
+        <p>&copy; 2015 - My ASP.NET Application</p>
+    </footer>
+
+
+    <script>
+
+        var getUrlParameter = function getUrlParameter(sParam) {
+            var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+                sURLVariables = sPageURL.split('&'),
+                sParameterName,
+                i;
+
+            for (i = 0; i < sURLVariables.length; i++) {
+                sParameterName = sURLVariables[i].split('=');
+
+                if (sParameterName[0] === sParam) {
+                    return sParameterName[1] === undefined ? true : sParameterName[1];
+                }
+            }
+        };
+        var id = getUrlParameter('author_ID');
+        var myUrl = "http://192.168.160.36/JSON/getAuthorTitles.aspx";
+        var arrayAux; 
+        $.ajax({
+            type: "GET",
+            url: myUrl,
+            data: { author_ID: id },
+            dataType: "jsonp",
+            error: function (xhr, status, err) {
+            },
+            success: function (data) {
+                initandwrite(data);
+            }
+        });
+
+
+        function initandwrite(data) {
+            var i;
+            var out = "<table align=\"center\" style=\"width:1090px\" class=\"table\"  ><tr><th>Title</th><th>Authors</th>" +
+            "<th>Type</th><th>Price</th><th>Sold qty.</th>" +
+            "<th>Notes</th><th>Pub. date</th></tr>";
+
+            for (i = 0; i < data.length; i++) {
+                out += '<tr><td>' + data[i].title + '</td><td>';
+                for (var j = 0; j < data[i].authors.length; j++) {
+                    if (j > 0)
+                        out += "<br/>";
+                    out += "<span class=\"glyphicon glyphicon-user\"></span>" + " " + data[i].authors[j];
+                }
+                out += "</td><td>";
+                out += data[i].type + '</td><td>' +
+                data[i].price + '</td><td>' +
+                data[i].ytd_sales + '</td><td>' +
+                data[i].notes + '</td><td>' +
+                data[i].pubdate.replace("00:00:00", "") + '</td></tr>';
+            }
+            out += "</table>";
+            arrayAux = data;
+            document.getElementById("id01").innerHTML = out;
+
+        }
+
+
+        var list = document.getElementById("sort");
+
+        list.addEventListener("click", function () {
+            var mode = list.selectedIndex;
+
+            switch (mode) {
+
+                case 0:  //ordenado alfab
+                    if (!is_sorted_litle(arrayAux)) {
+                        arrayAux.reverse();
+                        initandwrite(arrayAux);
+                    }
+                     console.log("0");
+                    break;
+
+
+                case 1:  //invers ordenado alfab
+                    if (is_sorted_litle(arrayAux)) {
+                        arrayAux.reverse();
+                        initandwrite(arrayAux);
+                    }
+                    console.log("1");
+
+            }
+        });
+
+
+
+        var myUrl2 = "http://192.168.160.36/JSON/getAuthors.aspx";
+        $.ajax({
+            type: "GET",
+            url: myUrl2,
+            data: { numAuthors: 8 },
+            dataType: "jsonp",
+            error: function (xhr, status, err) {
+            },
+            success: function (data) {
+                var i;
+                var out2 = "<h1>Book Sales ";
+                var id_atual = getUrlParameter('author_ID');
+                for (i = 0; i < data.length; i++) {
+                    if (data[i].ID == id_atual)
+                        out2 += "(by " + data[i].name + ")";
+                }
+                out2 += "</h1>";
+
+                document.getElementById("id02").innerHTML = out2;
+            }
+        });
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<result request="/sas/ementas" request_timestamp="1450275426">
+  <menus zone="santiago" type="day">
+    <menu canteen="Refeitório de Santiago" meal="Almoço" date="Wed, 16 Dec 2015 00:06:48 +0000" weekday="Wednesday" weekdayNr="3" disabled="0">
+      <items>
+        <item name="Sopa">Sopa de grão com espinafres</item>
+        <item name="Prato normal carne">Perna de frango panada no forno com massa esparguete</item>
+        <item name="Prato normal peixe" />
+        <item name="Prato dieta">Perna de frango grelhada com batata cozida e feijão verde</item>
+        <item name="Prato vegetariano" />
+        <item name="Prato opção">Solha frita com arroz de tomate</item>
+        <item name="Salada">Buffet de saladas</item>
+        <item name="Diversos">Pão de mistura</item>
+        <item name="Sobremesa">Fruta da época ou doce</item>
+        <item name="Bebida">Água mineral</item>
+      </items>
+    </menu>
+    <menu canteen="Refeitório de Santiago" meal="Jantar" date="Wed, 16 Dec 2015 00:06:48 +0000" weekday="Wednesday" weekdayNr="3" disabled="0">
+      <items>
+        <item name="Sopa">Sopa de grão com espinafres</item>
+        <item name="Prato normal carne" />
+        <item name="Prato normal peixe">Peixe espada dourado com arroz de ervilhas</item>
+        <item name="Prato dieta" />
+        <item name="Prato vegetariano">Strogonoff de tofu</item>
+        <item name="Prato opção" />
+        <item name="Salada">Buffet de saladas</item>
+        <item name="Diversos">Pão de mistura</item>
+        <item name="Sobremesa">Fruta da época ou doce</item>
+        <item name="Bebida" />
+      </items>
+    </menu>
+    <menu canteen="Refeitório do Crasto" meal="Almoço" date="Wed, 16 Dec 2015 00:06:48 +0000" weekday="Wednesday" weekdayNr="3" disabled="0">
+      <items>
+        <item name="Sopa">Sopa de grão com espinafres</item>
+        <item name="Prato normal carne" />
+        <item name="Prato normal peixe">Bacalhau espiritual (puré de batata)</item>
+        <item name="Prato dieta">Salteado de legumes</item>
+        <item name="Prato vegetariano" />
+        <item name="Prato opção">Fruta da época ou doce</item>
+        <item name="Salada">Buffet de saladas</item>
+        <item name="Diversos">Bife de vaca estufado com massa espiral</item>
+        <item name="Sobremesa">Pão de mistura</item>
+      </items>
+    </menu>
+    <menu canteen="Refeitório do Crasto" meal="Jantar" date="Wed, 16 Dec 2015 00:06:48 +0000" weekday="Wednesday" weekdayNr="3" disabled="Encerrado - refeições servidas no refeitório de santiago">
+      <items />
+    </menu>
+    <menu canteen="Snack-Bar/Self" meal="Almoço" date="Wed, 16 Dec 2015 00:06:48 +0000" weekday="Wednesday" weekdayNr="3" disabled="0">
+      <items>
+        <item name="Sopa">Sopa de grão com espinafres</item>
+        <item name="Prato de carne">Bife de vaca estufado com massa espiral</item>
+        <item name="Prato de peixe">Bacalhau espiritual (puré de batata)</item>
+        <item name="Salada">Buffet de saladas</item>
+        <item name="Diversos">Pão de mistura</item>
+        <item name="Sobremesa">Fruta da época ou doce</item>
+        <item name="Bebida" />
+      </items>
+    </menu>
+  </menus>
+</result>

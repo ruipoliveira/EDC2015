@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<curso>
+	<guid>26</guid>
+	<nome><![CDATA[Engenharia e Gestão Industrial]]></nome>
+	<imagem><![CDATA[http://acesso.ua.pt/upload/imagens/c_26.jpg]]></imagem>
+	<codigo>0300/9104</codigo>
+	<grau><![CDATA[Licenciatura]]></grau>
+	<ciclo>1</ciclo>
+	<duracao>3 anos letivos / 6 Semestres (180 ECTS)</duracao>
+	<ano_inicio></ano_inicio>
+	<regime><![CDATA[diurno / laboral]]></regime>
+	<horario><![CDATA[]]></horario>
+	<propinas><![CDATA[1063,47€/ano (estudantes nacionais)]]></propinas>
+	<subsistema><![CDATA[Universitário]]></subsistema>
+	<areas>
+		 <area><![CDATA[Engenharia e Gestão Industrial]]></area>
+	</areas>
+	<director>
+		<nome>Prof.ª Doutora Maria João Machado Pires da Rosa</nome>
+		<email>m.joao@ua.pt</email>
+	</director>
+	<departamentos>
+		<departamento>
+			<nome>Departamento de Economia, Gestão e Engenharia Industrial</nome>
+			<url>http://www.ua.pt/egi</url>
+		</departamento>
+	</departamentos>
+	<medias>
+		<fase1>142</fase1>
+		<fase2>145</fase2>
+		<fase3>0</fase3>
+	</medias>
+	<vagas>
+		<fase1>72</fase1>
+		<fase2>4</fase2>
+		<fase3>0</fase3>
+	</vagas>
+	<provas><![CDATA[07 Física e Química
+19 Matemática A<br /><br /><strong>O cálculo da nota de acesso considera:</strong><ul><li>60% da nota do ensino secundário</li><li>40% da nota da prova de ingresso</li></ul>]]></provas>
+	<ano_info><![CDATA[2015/2016]]></ano_info>
+	<saidas_profissionais><![CDATA[<p>Os licenciados em Engenharia e Gest&atilde;o Industrial ficam aptos a desempenhar fun&ccedil;&otilde;es na &aacute;rea de gest&atilde;o das opera&ccedil;&otilde;es em empresas industriais dos mais diversos setores, empresas de servi&ccedil;os ou organismos p&uacute;blicos.</p>
+<p>Pela prepara&ccedil;&atilde;o polivalente que lhes &eacute; fornecida ao longo do curso, permitindo-lhes ter conhecimentos sobre o funcionamento dos processos de fabrico associados a diferentes tipos de setores industriais e os conhecimentos de gest&atilde;o global, econ&oacute;mica e t&eacute;cnica, estes poder&atilde;o ocupar posi&ccedil;&otilde;es de relevo quer nas empresas de pequena e m&eacute;dia dimens&atilde;o, quer em grandes empresas e/ou grupos multinacionais.</p>
+<p>O mercado de trabalho &eacute; vasto e diversificado pelo que se espera que estes licenciados, tal como tem sucedido desde o in&iacute;cio deste curso, encontrem coloca&ccedil;&atilde;o com relativa facilidade no mais variado tipo de empresas, nomeadamente em empresas de consultadoria e auditoria, t&ecirc;xteis, ind&uacute;stria autom&oacute;vel, cer&acirc;mica e vidro, eletr&oacute;nica e telecomunica&ccedil;&otilde;es, bancos, seguradoras, empresas de moldes, pl&aacute;sticos, ind&uacute;strias met&aacute;licas e metalomec&acirc;nicas, cal&ccedil;ado, revestimentos, mobili&aacute;rio, madeiras, cimentos, gabinetes de contabilidade e gest&atilde;o, empresas de alimenta&ccedil;&atilde;o e bebidas, energia, ind&uacute;stria e com&eacute;rcio de frio, constru&ccedil;&atilde;o civil e imobili&aacute;rias e qu&iacute;micas.</p>]]></saidas_profissionais>
+	<objectivos><![CDATA[<p>A Engenharia e Gest&atilde;o Industrial tem por base a an&aacute;lise, o projeto, o desempenho e o controlo de sistemas integrados de pessoas, materiais, equipamentos e energia. O objetivo do primeiro ciclo em Engenharia e Gest&atilde;o Industrial &eacute; o de formar quadros com s&oacute;lida forma&ccedil;&atilde;o nas ci&ecirc;ncias de base, que suporte a aprendizagem dos m&eacute;todos de an&aacute;lise e de a&ccedil;&atilde;o ao n&iacute;vel dos sistemas de engenharia, e com um dom&iacute;nio dos conceitos e m&eacute;todos espec&iacute;ficos das &aacute;reas de Gest&atilde;o de Opera&ccedil;&otilde;es e de Sistemas de Informa&ccedil;&atilde;o (aplicados &agrave; Gest&atilde;o de Opera&ccedil;&otilde;es). Para al&eacute;m disso, o curso visa fornecer conhecimentos complementares das &aacute;reas de Economia, Gest&atilde;o e Tecnologias de Produ&ccedil;&atilde;o.</p>
+<p>Na UA, a forma&ccedil;&atilde;o em Engenharia e Gest&atilde;o Industrial foi concebida para um percurso composto por dois ciclos (3+2 anos), conducente no final a um diploma de segundo ciclo em Engenharia e Gest&atilde;o Industrial, que permita o acesso ao exerc&iacute;cio de atividade profissional. O exerc&iacute;cio pleno da profiss&atilde;o de Engenheiro Industrial s&oacute; ser&aacute; permitido ap&oacute;s a conclus&atilde;o do segundo ciclo. Contudo, a conclus&atilde;o do primeiro ciclo dever&aacute; facultar o acesso a um conjunto de atividades profissionais relacionadas com a &aacute;rea de Engenharia Industrial, numa perspetiva de aprendizagem cont&iacute;nua ou transit&oacute;ria entre ciclos.</p>]]></objectivos>
+	<observacoes><![CDATA[]]></observacoes>
+	<testemunho><![CDATA[<p><em>"O aspeto mais carater&iacute;stico da Engenharia Industrial &eacute; a sua flexibilidade. Enquanto que os outros ramos de Engenharia focalizam as suas compet&ecirc;ncias em &aacute;reas muito espec&iacute;ficas, os Engenheiros Industriais s&atilde;o formados como especialistas em produtividade e melhoria da qualidade. Eles trabalham para eliminar desperd&iacute;cios de tempo, dinheiro, materiais, energia e outros recursos."</em></p>
+<p>Institute of Industrial Engineers (EUA)</p>]]></testemunho>
+	<pre_requisitos><![CDATA[]]></pre_requisitos>
+	<local><![CDATA[Campus Universitário de Santiago, Aveiro]]></local>
+	<urlmaisinfo><![CDATA[http://]]></urlmaisinfo>
+	<urlcandidaturas><![CDATA[http://]]></urlcandidaturas>
+	<urlmobilidade><![CDATA[http://]]></urlmobilidade>
+	<m23>
+		<provas><![CDATA[matemática <a href="http://www.ua.pt/ensino/PageText.aspx?id=15132" target=_blank>programa e exames</a>]]></provas>
+		<vagas><![CDATA[]]></vagas>
+		<urlinfo><![CDATA[http://www.ua.pt/m23]]></urlinfo>
+		<observacoes><![CDATA[]]></observacoes>
+	</m23>
+	<posgraduacoes>
+		<periodo><![CDATA[]]></periodo>
+		<corpo_docente><![CDATA[]]></corpo_docente>
+		<destinatarios><![CDATA[]]></destinatarios>
+		<vagas><![CDATA[]]></vagas>
+		<vagas_obs><![CDATA[]]></vagas_obs>
+		<urlmobilidade><![CDATA[]]></urlmobilidade>
+		<ano_info><![CDATA[]]></ano_info>
+		<edital><![CDATA[]]></edital>
+		<ata><![CDATA[]]></ata>
+	</posgraduacoes>
+</curso>
+

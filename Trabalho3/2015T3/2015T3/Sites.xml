@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sites>
+    <site description="A bola webnode	" url="http://a-bola.webnode.pt/rss/all.xml	" />
+
+  <site description="Publico.pt" url="http://feeds.feedburner.com/PublicoRSS?formal=xml" />
+  <site description="Diário Económico	" url="http://economico.sapo.pt/rss/ultimas" />
+  <site description="Jornal de Negócios	" url="http://www.jornaldenegocios.pt/funcionalidades/rss/generarRSS.php" />
+  <site description="A bola webnode	" url="http://a-bola.webnode.pt/rss/all.xml	" />
+</sites>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<result request="/sac/senhas" request_timestamp="1450283514">
+  <items count="7">
+    <item enabled="1" info="">
+      <id>222305</id>
+      <letter>A</letter>
+      <desc>Lic. (1º ciclo), Mestrado (2º ciclo)</desc>
+      <latest>135</latest>
+      <ast>278</ast>
+      <awt>7199</awt>
+      <wc>1</wc>
+      <post_number>2</post_number>
+      <date>2015-12-16 16:30:31</date>
+      <act>1</act>
+      <dtickets>1</dtickets>
+    </item>
+    <item enabled="1" info="">
+      <id>222272</id>
+      <letter>D</letter>
+      <desc>Atendimento Prioritário</desc>
+      <latest>7</latest>
+      <ast>252</ast>
+      <awt>1393</awt>
+      <wc>0</wc>
+      <post_number>2</post_number>
+      <date>2015-12-16 15:41:11</date>
+      <act>1</act>
+      <dtickets>1</dtickets>
+    </item>
+    <item enabled="0" info="Fora de horário">
+      <id>222286</id>
+      <letter>H</letter>
+      <desc>Estágios Internacionais</desc>
+      <latest>1</latest>
+      <ast>172</ast>
+      <awt>717</awt>
+      <wc>0</wc>
+      <post_number>6</post_number>
+      <date>2015-12-16 16:08:24</date>
+      <act>1</act>
+      <dtickets>0</dtickets>
+    </item>
+    <item enabled="0" info="Fora de horário">
+      <id>222193</id>
+      <letter>G</letter>
+      <desc>Mobilidade Erasmus (Alunos UA)</desc>
+      <latest>4</latest>
+      <ast>36</ast>
+      <awt>707</awt>
+      <wc>0</wc>
+      <post_number>6</post_number>
+      <date>2015-12-16 11:14:01</date>
+      <act>0</act>
+      <dtickets>0</dtickets>
+    </item>
+    <item enabled="1" info="">
+      <id>222297</id>
+      <letter>C</letter>
+      <desc>Doutoramentos, Agregações</desc>
+      <latest>25</latest>
+      <ast>348</ast>
+      <awt>971</awt>
+      <wc>1</wc>
+      <post_number>9</post_number>
+      <date>2015-12-16 16:22:05</date>
+      <act>1</act>
+      <dtickets>1</dtickets>
+    </item>
+    <item enabled="0" info="Fora de horário">
+      <id>222196</id>
+      <letter>V</letter>
+      <desc>Student Exchange (Brasil &amp; China)</desc>
+      <latest>5</latest>
+      <ast>49</ast>
+      <awt>2439</awt>
+      <wc>0</wc>
+      <post_number>5</post_number>
+      <date>2015-12-16 11:25:32</date>
+      <act>0</act>
+      <dtickets>0</dtickets>
+    </item>
+    <item enabled="0" info="Fora de horário">
+      <id>222187</id>
+      <letter>U</letter>
+      <desc>Student Exchange (Europe)</desc>
+      <latest>2</latest>
+      <ast>119</ast>
+      <awt>2226</awt>
+      <wc>0</wc>
+      <post_number>5</post_number>
+      <date>2015-12-16 11:06:25</date>
+      <act>0</act>
+      <dtickets>0</dtickets>
+    </item>
+  </items>
+</result>
