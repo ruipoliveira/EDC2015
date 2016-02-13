@@ -9,5 +9,4 @@ Trabalho 3: Aggregator of information. Multiple sources. RSS
 
 [Propose final work](https://github.com/ruipoliveira/EDC2015/blob/master/TrabalhoFinal/UAstudentv2_PT.pdf)
 
-
-
+2015 | Rui Oliveira and Filipa Carpinteira  
